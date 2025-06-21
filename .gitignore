@@ -37,6 +37,5 @@
 /vendor
 /.github
 /.rubocop.yml
-/storage
 /public
-/log
+
